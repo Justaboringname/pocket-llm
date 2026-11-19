@@ -1,0 +1,1523 @@
+{
+  "sourceLanguage": "en",
+  "strings": {
+    "%@ could not be loaded.": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "无法加载 %@。"
+          }
+        }
+      }
+    },
+    "%@ needs about %@ of free storage, but only %@ is available. Free up space in Settings › General › iPhone Storage and try again.": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "%1$@ 需要约 %2$@ 可用空间，但目前只有 %3$@。请在“设置 › 通用 › iPhone 储存空间”中清理后重试。"
+          }
+        }
+      }
+    },
+    "%@ of %@": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "%1$@ / %2$@"
+          }
+        }
+      }
+    },
+    "%@ parameters, %@, %@": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "%1$@ 参数，%2$@，%3$@"
+          }
+        }
+      }
+    },
+    "%@ tok/s": {
+      "comment": "Decode speed in the message footer, e.g. \"42.1 tok/s\". Keep \"tok/s\".",
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "%@ tok/s"
+          }
+        }
+      }
+    },
+    "%lld tokens": {
+      "comment": "Number of generated tokens in the message footer.",
+      "localizations": {
+        "en": {
+          "variations": {
+            "plural": {
+              "one": {
+                "stringUnit": {
+                  "state": "translated",
+                  "value": "%lld token"
+                }
+              },
+              "other": {
+                "stringUnit": {
+                  "state": "translated",
+                  "value": "%lld tokens"
+                }
+              }
+            }
+          }
+        },
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "%lld 个 token"
+          }
+        }
+      }
+    },
+    "AI-generated content": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "AI 生成的内容"
+          }
+        }
+      }
+    },
+    "About": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "关于"
+          }
+        }
+      }
+    },
+    "Acknowledgements": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "致谢"
+          }
+        }
+      }
+    },
+    "Active": {
+      "comment": "Model card: this model is the one in use.",
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "使用中"
+          }
+        }
+      }
+    },
+    "All models": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "全部模型"
+          }
+        }
+      }
+    },
+    "Cancel": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "取消"
+          }
+        }
+      }
+    },
+    "Cancel download": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "取消下载"
+          }
+        }
+      }
+    },
+    "Changes apply to the next reply. Defaults come from each model's recommended settings; longer replies use more memory.": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "更改从下一条回复起生效。默认值来自各模型的推荐设置；回复越长，占用内存越多。"
+          }
+        }
+      }
+    },
+    "Chat with a language model that runs entirely on this iPhone.": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "和一个完全在这台 iPhone 上运行的语言模型聊天。"
+          }
+        }
+      }
+    },
+    "Choose": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "选择"
+          }
+        }
+      }
+    },
+    "Choose a model to start": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "选择一个模型即可开始"
+          }
+        }
+      }
+    },
+    "Choose model": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "选择模型"
+          }
+        }
+      }
+    },
+    "Collapsed": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "已收起"
+          }
+        }
+      }
+    },
+    "Copied": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "已拷贝"
+          }
+        }
+      }
+    },
+    "Copy": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "拷贝"
+          }
+        }
+      }
+    },
+    "Copy code": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "拷贝代码"
+          }
+        }
+      }
+    },
+    "Creative": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "创意"
+          }
+        }
+      }
+    },
+    "Default": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "默认"
+          }
+        }
+      }
+    },
+    "Default (%@)": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "默认（%@）"
+          }
+        }
+      }
+    },
+    "Delete": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "删除"
+          }
+        }
+      }
+    },
+    "Delete %@": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "删除 %@"
+          }
+        }
+      }
+    },
+    "Delete %@?": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "删除 %@？"
+          }
+        }
+      }
+    },
+    "Device": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "设备"
+          }
+        }
+      }
+    },
+    "Device is hot; replies may slow down": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "设备发热，回复可能变慢"
+          }
+        }
+      }
+    },
+    "Dismiss": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "关闭"
+          }
+        }
+      }
+    },
+    "Done": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "完成"
+          }
+        }
+      }
+    },
+    "Download": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "下载"
+          }
+        }
+      }
+    },
+    "Download %@, %@": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "下载 %1$@，%2$@"
+          }
+        }
+      }
+    },
+    "Download %@?": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "下载 %@？"
+          }
+        }
+      }
+    },
+    "Download a model to start": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "下载一个模型即可开始"
+          }
+        }
+      }
+    },
+    "Download progress": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "下载进度"
+          }
+        }
+      }
+    },
+    "Download · %@": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "下载 · %@"
+          }
+        }
+      }
+    },
+    "Downloads pause if you leave the app.": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "离开 App 后，下载会暂停。"
+          }
+        }
+      }
+    },
+    "Engine": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "推理引擎"
+          }
+        }
+      }
+    },
+    "Expanded": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "已展开"
+          }
+        }
+      }
+    },
+    "Explain how a language model picks its next word, in plain terms.": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "用大白话讲讲：语言模型是怎么选出下一个词的？"
+          }
+        }
+      }
+    },
+    "Failed": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "失败"
+          }
+        }
+      }
+    },
+    "Fits": {
+      "comment": "Badge: the model fits in memory.",
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "内存够用"
+          }
+        }
+      }
+    },
+    "Fits, with little room to spare. iOS may close the app if other apps need memory.": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "可以运行，但余量很小。其他 App 需要内存时，iOS 可能会关闭本 App。"
+          }
+        }
+      }
+    },
+    "From huggingface.co. Keep the app open while it downloads.": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "从 huggingface.co 下载。下载期间请让 App 保持在前台。"
+          }
+        }
+      }
+    },
+    "Generation": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "生成"
+          }
+        }
+      }
+    },
+    "Generation paused: device too hot": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "设备过热，已暂停生成"
+          }
+        }
+      }
+    },
+    "Give me three ideas for a quick weeknight dinner.": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "给我三个下班后能快速做好的晚饭点子。"
+          }
+        }
+      }
+    },
+    "Hardware model": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "硬件型号"
+          }
+        }
+      }
+    },
+    "Hot": {
+      "comment": "Thermal chip in the live readout when the device is hot (serious thermal state).",
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "发热"
+          }
+        }
+      }
+    },
+    "Increased memory limit": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "提高内存上限"
+          }
+        }
+      }
+    },
+    "Jump to latest": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "跳到最新"
+          }
+        }
+      }
+    },
+    "Length limit": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "已达长度上限"
+          }
+        }
+      }
+    },
+    "Length limit while thinking": {
+      "comment": "Message footer marker: the reply reached its token limit while the model was still in its thinking block, so there is no answer.",
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "思考时已达长度上限"
+          }
+        }
+      }
+    },
+    "License: %@": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "许可证：%@"
+          }
+        }
+      }
+    },
+    "Load": {
+      "comment": "Model card button: load the selected (unloaded) model again.",
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "加载"
+          }
+        }
+      }
+    },
+    "Loading %@…": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "正在加载 %@…"
+          }
+        }
+      }
+    },
+    "MLX on the GPU": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "MLX（GPU）"
+          }
+        }
+      }
+    },
+    "Max response tokens": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "单次回复 token 上限"
+          }
+        }
+      }
+    },
+    "Memory in use": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "已用内存"
+          }
+        }
+      }
+    },
+    "Memory limit for this app": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "本 App 内存上限"
+          }
+        }
+      }
+    },
+    "Message": {
+      "comment": "Placeholder of the message field.",
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "输入消息"
+          }
+        }
+      }
+    },
+    "Model files are downloaded from huggingface.co only when you tap Download.": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "只有在你轻点“下载”后，才会从 huggingface.co 下载模型文件。"
+          }
+        }
+      }
+    },
+    "Model licenses": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "模型许可证"
+          }
+        }
+      }
+    },
+    "Model weights are published by their authors under these licenses and are downloaded only when you ask.": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "模型权重由作者按以上许可证发布，只在你要求时才下载。"
+          }
+        }
+      }
+    },
+    "Model: %@, failed to load": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "模型：%@，加载失败"
+          }
+        }
+      }
+    },
+    "Model: %@, loading": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "模型：%@，正在加载"
+          }
+        }
+      }
+    },
+    "Model: %@, loads when you send": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "模型：%@，发送时加载"
+          }
+        }
+      }
+    },
+    "Model: %@, ready": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "模型：%@，已就绪"
+          }
+        }
+      }
+    },
+    "Models": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "模型"
+          }
+        }
+      }
+    },
+    "Models run entirely on this device. There are no accounts, no analytics and no data collection, and nothing you type is sent to a server. Your conversation is stored only on this iPhone (and, like other app data, in your own iCloud or computer backup). The only network use is downloading model files from huggingface.co when you ask for it.": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "模型完全在这台设备上运行。没有账户、没有统计分析，也不收集任何数据，你输入的内容不会发送到任何服务器。对话只保存在这台 iPhone 上（和其他 App 数据一样，也会进入你自己的 iCloud 或电脑备份）。唯一的联网操作，是在你要求时从 huggingface.co 下载模型文件。"
+          }
+        }
+      }
+    },
+    "Models run on this iPhone's GPU. Larger ones answer better but need more memory and are slower.": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "模型在这台 iPhone 的 GPU 上运行。越大的模型回答越好，但也更占内存、更慢。"
+          }
+        }
+      }
+    },
+    "Models use %@": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "模型占用 %@"
+          }
+        }
+      }
+    },
+    "Models use %@ · %@ free on this iPhone": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "模型占用 %1$@ · 本机可用 %2$@"
+          }
+        }
+      }
+    },
+    "New conversation": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "新对话"
+          }
+        }
+      }
+    },
+    "No model on this iPhone yet.": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "这台 iPhone 上还没有模型。"
+          }
+        }
+      }
+    },
+    "No model selected": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "未选择模型"
+          }
+        }
+      }
+    },
+    "No model selected.": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "未选择模型。"
+          }
+        }
+      }
+    },
+    "None of the models fits in this iPhone's memory right now. Close other apps and try again.": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "目前没有哪个模型装得进这台 iPhone 的内存。请关闭其他 App 后再试。"
+          }
+        }
+      }
+    },
+    "Not enough storage": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "存储空间不足"
+          }
+        }
+      }
+    },
+    "Not granted": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "未获授权"
+          }
+        }
+      }
+    },
+    "Not reported": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "未知"
+          }
+        }
+      }
+    },
+    "Not signed": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "未签名"
+          }
+        }
+      }
+    },
+    "Nothing you type is sent to a server.": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "你输入的内容不会发送到任何服务器。"
+          }
+        }
+      }
+    },
+    "OK": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "好"
+          }
+        }
+      }
+    },
+    "Off": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "关"
+          }
+        }
+      }
+    },
+    "On": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "开"
+          }
+        }
+      }
+    },
+    "Opens the license in Safari": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "在 Safari 中打开许可证"
+          }
+        }
+      }
+    },
+    "Opens the model list": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "打开模型列表"
+          }
+        }
+      }
+    },
+    "Opens the model page in Safari": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "在 Safari 中打开模型页面"
+          }
+        }
+      }
+    },
+    "Paused: device too hot": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "已暂停：设备过热"
+          }
+        }
+      }
+    },
+    "Physical memory": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "物理内存"
+          }
+        }
+      }
+    },
+    "Pick a model to start": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "选一个模型开始"
+          }
+        }
+      }
+    },
+    "Pocket LLM is built on these open-source projects. Thank you to their authors.": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Pocket LLM 基于以下开源项目构建，感谢各位作者。"
+          }
+        }
+      }
+    },
+    "Precise": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "精确"
+          }
+        }
+      }
+    },
+    "Privacy": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "隐私"
+          }
+        }
+      }
+    },
+    "Privacy Policy": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "隐私政策"
+          }
+        }
+      }
+    },
+    "Reasoning": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "思考过程"
+          }
+        }
+      }
+    },
+    "Reasoning shown as answer": {
+      "comment": "Message footer marker: the model ended its reply without closing its thinking block, so that text is shown as the answer.",
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "思考内容作为回答显示"
+          }
+        }
+      }
+    },
+    "Recommended for this iPhone": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "适合这台 iPhone"
+          }
+        }
+      }
+    },
+    "Regenerate": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "重新生成"
+          }
+        }
+      }
+    },
+    "Replies are generated by a small language model and may be inaccurate or inappropriate. Check anything important.": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "回复由小型语言模型生成，可能不准确或不恰当。重要信息请自行核实。"
+          }
+        }
+      }
+    },
+    "Replies resume when it cools down.": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "降温后即可继续回复。"
+          }
+        }
+      }
+    },
+    "Report a problematic response": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "报告有问题的回复"
+          }
+        }
+      }
+    },
+    "Reset to model defaults": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "恢复模型默认值"
+          }
+        }
+      }
+    },
+    "Retry": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "重试"
+          }
+        }
+      }
+    },
+    "Running hot. Replies may be slower.": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "设备发热，回复可能变慢。"
+          }
+        }
+      }
+    },
+    "Running on this iPhone. Nothing is sent to a server.": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "在这台 iPhone 上运行，不会向服务器发送任何内容。"
+          }
+        }
+      }
+    },
+    "Runs on this iPhone": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "完全在这台 iPhone 上运行"
+          }
+        }
+      }
+    },
+    "Select Text": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "选择文本"
+          }
+        }
+      }
+    },
+    "Send": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "发送"
+          }
+        }
+      }
+    },
+    "Sends this message": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "发送这条消息"
+          }
+        }
+      }
+    },
+    "Settings": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "设置"
+          }
+        }
+      }
+    },
+    "Share": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "共享"
+          }
+        }
+      }
+    },
+    "Shows the model's reasoning": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "显示模型的思考过程"
+          }
+        }
+      }
+    },
+    "Simulated (no GPU)": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "模拟（无 GPU）"
+          }
+        }
+      }
+    },
+    "Simulator": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "模拟器"
+          }
+        }
+      }
+    },
+    "Something went wrong": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "出了点问题"
+          }
+        }
+      }
+    },
+    "Stop generating": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "停止生成"
+          }
+        }
+      }
+    },
+    "Stopped": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "已停止"
+          }
+        }
+      }
+    },
+    "Support": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "支持"
+          }
+        }
+      }
+    },
+    "System prompt": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "系统提示词"
+          }
+        }
+      }
+    },
+    "Temperature": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "温度"
+          }
+        }
+      }
+    },
+    "The memory limit decides which models can load. The increased-memory entitlement raises it on supported iPhones.": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "内存上限决定了能加载哪些模型。在支持的 iPhone 上，“提高内存上限”权限会调高这个上限。"
+          }
+        }
+      }
+    },
+    "Thermal state": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "温度状态"
+          }
+        }
+      }
+    },
+    "Thinking": {
+      "comment": "Toggle and badge for the model's reasoning (\"thinking\") mode.",
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "思考"
+          }
+        }
+      }
+    },
+    "Thinking…": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "思考中…"
+          }
+        }
+      }
+    },
+    "This downloads %@ from huggingface.co. Keep the app open until it finishes: downloads pause in the background. Wi-Fi recommended.": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "将从 huggingface.co 下载 %@。下载完成前请让 App 保持在前台，切到后台会暂停下载。建议使用 Wi-Fi。"
+          }
+        }
+      }
+    },
+    "This frees %@. You can download it again later.": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "将释放 %@，以后可以重新下载。"
+          }
+        }
+      }
+    },
+    "Thought for %@ s": {
+      "comment": "Collapsed thinking block, e.g. \"Thought for 3.2 s\".",
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "思考了 %@ 秒"
+          }
+        }
+      }
+    },
+    "Thought for %@ s · cut off": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "思考了 %@ 秒 · 被截断"
+          }
+        }
+      }
+    },
+    "Tight fit": {
+      "comment": "Badge: the model fits in memory with little headroom.",
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "内存紧张"
+          }
+        }
+      }
+    },
+    "Too large": {
+      "comment": "Badge: the model does not fit in memory.",
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "内存不足"
+          }
+        }
+      }
+    },
+    "Try again": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "重试"
+          }
+        }
+      }
+    },
+    "Use": {
+      "comment": "Model card button: switch to this downloaded model.",
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "使用"
+          }
+        }
+      }
+    },
+    "Version": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "版本"
+          }
+        }
+      }
+    },
+    "When on, the model reasons before it answers. Slower, often better.": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "开启后，模型会先思考再回答。更慢，但通常更好。"
+          }
+        }
+      }
+    },
+    "Write a Swift function that checks whether a string is a palindrome.": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "写一个 Swift 函数，判断一个字符串是不是回文。"
+          }
+        }
+      }
+    },
+    "Write a four-line poem about a train at night.": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "写一首四行小诗，关于夜里的火车。"
+          }
+        }
+      }
+    },
+    "You: %@": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "你：%@"
+          }
+        }
+      }
+    },
+    "default": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "默认"
+          }
+        }
+      }
+    },
+    "e.g. Answer briefly. Use metric units.": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "例如：回答简短一些，使用公制单位。"
+          }
+        }
+      }
+    },
+    "first token": {
+      "comment": "Label under the time-to-first-token value in the live readout.",
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "首 token 延迟"
+          }
+        }
+      }
+    },
+    "first token %@ s": {
+      "comment": "Time to first token in the message footer, e.g. \"first token 0.38 s\".",
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "首 token 延迟 %@ s"
+          }
+        }
+      }
+    },
+    "reading prompt": {
+      "comment": "Label in the live readout while the prompt is processed, before the first token.",
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "读取提示词"
+          }
+        }
+      }
+    },
+    "tok/s": {
+      "comment": "Unit label under the decode-speed value in the live readout.",
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "tok/s"
+          }
+        }
+      }
+    },
+    "tokens": {
+      "comment": "Label under the token count in the live readout.",
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "token 数"
+          }
+        }
+      }
+    }
+  },
+  "version": "1.0"
+}

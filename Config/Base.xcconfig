@@ -1,0 +1,25 @@
+// Shared build settings (committed). Machine-specific values (signing team, bundle id prefix)
+// belong in Config/Local.xcconfig, which is gitignored; see Local.xcconfig.example.
+
+APP_DISPLAY_NAME = Pocket LLM
+MARKETING_VERSION = 0.1.0
+CURRENT_PROJECT_VERSION = 1
+
+// Optional links shown in Settings › About (rows are hidden while empty). They are copied into
+// Info.plist (PrivacyPolicyURL / SupportURL). In xcconfig files `//` starts a comment, so write
+// URLs as `https:/$()/example.com/privacy` (the empty `$()` keeps the double slash).
+// SUPPORT_URL also enables "Report a problematic response".
+PRIVACY_POLICY_URL =
+SUPPORT_URL =
+
+// Overridden in Local.xcconfig.
+BUNDLE_ID_PREFIX = com.example
+DEVELOPMENT_TEAM =
+CODE_SIGN_STYLE = Automatic
+
+// Extra Swift compilation condition for the app target only.
+// scripts/build-device.sh --selftest passes SELFTEST_FLAG=SELFTEST on the command line, which
+// compiles the on-device self-test harness. Normal builds leave it empty.
+SELFTEST_FLAG =
+
+#include? "Local.xcconfig"

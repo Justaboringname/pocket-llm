@@ -1,0 +1,318 @@
+{
+  "sourceLanguage": "en",
+  "strings": {
+    "%@ is not downloaded yet.": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "%@ 尚未下载。"
+          }
+        }
+      }
+    },
+    "%@ needs about %@ of memory, but this app can use only %@ right now.": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "new",
+            "value": "%1$@ needs about %2$@ of memory, but this app can use only %3$@ right now."
+          }
+        },
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "%1$@ 约需 %2$@ 内存，但本 App 目前最多只能使用 %3$@。"
+          }
+        }
+      }
+    },
+    "A reply is still being generated.": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "仍在生成上一条回复。"
+          }
+        }
+      }
+    },
+    "Choose and load a model first.": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "请先选择并加载一个模型。"
+          }
+        }
+      }
+    },
+    "Generation failed: %@": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "生成失败：%@"
+          }
+        }
+      }
+    },
+    "Generation is not available while the app is in the background.": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "App 在后台时无法生成回复。"
+          }
+        }
+      }
+    },
+    "Hot": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "很热"
+          }
+        }
+      }
+    },
+    "Invalid model entry: %@": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "模型条目无效：%@"
+          }
+        }
+      }
+    },
+    "No internet connection. Connect to Wi-Fi or cellular data and try again. Files that already finished downloading are kept.": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "没有网络连接。请连接 Wi-Fi 或蜂窝数据后重试，已下载完成的文件会保留。"
+          }
+        }
+      }
+    },
+    "No model is loaded.": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "尚未加载模型。"
+          }
+        }
+      }
+    },
+    "Normal": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "正常"
+          }
+        }
+      }
+    },
+    "Not enough free storage. This download needs about %@, but only %@ is free.": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "new",
+            "value": "Not enough free storage. This download needs about %1$@, but only %2$@ is free."
+          }
+        },
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "存储空间不足。此次下载约需 %1$@，但仅剩 %2$@ 可用。"
+          }
+        }
+      }
+    },
+    "The device is too hot. Generation is paused until it cools down.": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "设备温度过高，生成已暂停，降温后即可继续。"
+          }
+        }
+      }
+    },
+    "The download failed: %@": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "下载失败：%@"
+          }
+        }
+      }
+    },
+    "The download is incomplete (missing: %@). Please try again.": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "下载不完整（缺少：%@），请重试。"
+          }
+        }
+      }
+    },
+    "The download server is having trouble (HTTP %lld). Try again later.": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "下载服务器暂时出现问题（HTTP %lld），请稍后重试。"
+          }
+        }
+      }
+    },
+    "The download server refused the request (HTTP %lld).": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "下载服务器拒绝了请求（HTTP %lld）。"
+          }
+        }
+      }
+    },
+    "The download was interrupted by a network problem. Try again: files that already finished downloading are kept.": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "下载因网络问题中断。请重试，已下载完成的文件会保留。"
+          }
+        }
+      }
+    },
+    "The model could not be loaded: %@": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "无法加载模型：%@"
+          }
+        }
+      }
+    },
+    "Too hot": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "过热"
+          }
+        }
+      }
+    },
+    "Warm": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "偏热"
+          }
+        }
+      }
+    },
+    "model.phi-4-mini.blurb": {
+      "comment": "One-sentence description of the Phi-4-mini model in the model list.",
+      "extractionState": "manual",
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Microsoft's 3.8B model, strong at reasoning and math. No thinking mode."
+          }
+        },
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "微软的 3.8B 模型，擅长推理和数学，不支持思考模式。"
+          }
+        }
+      }
+    },
+    "model.qwen3-0.6b.blurb": {
+      "comment": "One-sentence description of the Qwen3 0.6B model in the model list.",
+      "extractionState": "manual",
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Smallest and fastest. Fine for quick questions, but makes more mistakes."
+          }
+        },
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "最小、最快，适合简单问题，但更容易出错。"
+          }
+        }
+      }
+    },
+    "model.qwen3-1.7b.blurb": {
+      "comment": "One-sentence description of the Qwen3 1.7B model in the model list.",
+      "extractionState": "manual",
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Balanced size and quality for everyday chat."
+          }
+        },
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "体积与质量兼顾，适合日常对话。"
+          }
+        }
+      }
+    },
+    "model.qwen3-4b.blurb": {
+      "comment": "One-sentence description of the Qwen3 4B model in the model list.",
+      "extractionState": "manual",
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "The strongest Qwen3 here. Slower and needs more memory, and long replies slow down as the phone warms up."
+          }
+        },
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "这里最强的 Qwen3，速度更慢，也更占内存；长回复会随手机发热变慢。"
+          }
+        }
+      }
+    },
+    "model.smollm3-3b.blurb": {
+      "comment": "One-sentence description of the SmolLM3 3B model in the model list.",
+      "extractionState": "manual",
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Hugging Face's fully open 3B model with a thinking mode. Best in English and five European languages."
+          }
+        },
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Hugging Face 完全开源的 3B 模型，支持思考模式。英语和五种欧洲语言表现最好。"
+          }
+        }
+      }
+    }
+  },
+  "version": "1.0"
+}

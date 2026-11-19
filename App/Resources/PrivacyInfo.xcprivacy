@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<!--
+  Privacy manifest of the app. No tracking, no tracking domains, no collected data.
+
+  Required-reason APIs: only the ones the app binary references (checked with `nm -u` on the
+  Release build). Disk space: `FileUtilities.availableCapacity` (LLMCore) reads
+  volumeAvailableCapacityForImportantUsage / volumeAvailableCapacity to refuse a model download
+  that will not fit (E174.1) and to show the free space in the model list (85F4.1).
+  Not used: UserDefaults, file timestamp APIs (creationDate, modificationDate, stat...), system
+  boot time, active keyboard list. File sizes are read with fileSizeKey /
+  totalFileAllocatedSizeKey and FileManager.attributesOfItem(.size), which are not on Apple's
+  required-reason list. If App Store Connect ever reports ITMS-91053 for file timestamps, add
+  NSPrivacyAccessedAPICategoryFileTimestamp with C617.1.
+-->
+<plist version="1.0">
+<dict>
+	<key>NSPrivacyTracking</key>
+	<false/>
+	<key>NSPrivacyTrackingDomains</key>
+	<array/>
+	<key>NSPrivacyCollectedDataTypes</key>
+	<array/>
+	<key>NSPrivacyAccessedAPITypes</key>
+	<array>
+		<dict>
+			<key>NSPrivacyAccessedAPIType</key>
+			<string>NSPrivacyAccessedAPICategoryDiskSpace</string>
+			<key>NSPrivacyAccessedAPITypeReasons</key>
+			<array>
+				<string>E174.1</string>
+				<string>85F4.1</string>
+			</array>
+		</dict>
+	</array>
+</dict>
+</plist>
